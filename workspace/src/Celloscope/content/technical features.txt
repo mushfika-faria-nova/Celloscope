@@ -1,0 +1,4 @@
+Paragraph:01
+Title: Solutions ->Technical Features
+Description: Celloscope Banking Platform is created of various tried and tested technological tools, languages, frameworks and engines. It can be ported to various Database engines. The GUI is optimized for smart phones, tablets and desktop. High degree of security has been achieved through encryption and multilevel authentication.
+...

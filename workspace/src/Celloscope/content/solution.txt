@@ -1,0 +1,15 @@
+Paragraph:01
+Title: SOLUTION
+Description: Celloscope Banking Platform is an open architecture and extensible banking services platform which supports and enables a number of key features for a bank under a single platform. The key components of Celloscope Banking Platform are best visualized through the feature and component diagram below. As depicted key component of Celloscope Banking Platform are:
+List: Core Transaction Component
+Accounting Component
+Business Rule Processor
+Security Component
+Compliance Component
+Banking Product Engine
+Delivery Channel Engine
+Customer and Account Management
+External System Integration Engine
+Systems Management Component
+Portal and Dashboard
+Reporting Engine

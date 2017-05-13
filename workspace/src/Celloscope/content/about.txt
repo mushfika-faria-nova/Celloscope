@@ -1,0 +1,3 @@
+Paragraph:01
+Title: ABOUT
+Description: Celloscope started with a simple goal,provide financial institutes with a platform toextend their services to far-reaching people,something they cannot do with a brick and mortar model. With that goal, CELLOSCOPE has developed a robust platform aggregating the individual strength of a few good friends.

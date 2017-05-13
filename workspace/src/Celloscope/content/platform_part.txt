@@ -1,0 +1,12 @@
+Paragraph:01
+Title: Overview
+Image: images/Platform Image/Overview.jpg
+Description: Celloscope Platform is designed to cater to different financial institutions with common as well as unique need. The platform is flexible enough to be used by for-profit and not-for-profit organizations alike. The challenges faced by developing nations when it comes to providing financial services has always been considered during design and implementationphases.
+Paragraph:02
+Title: Benefits for Banks
+Image: images/Platform Image/BenefitsForBanks.jpg
+Description: Celloscope Banking Platform helps banks increase service penetration, enhance customer loyalty and stickiness, reduce cost of operations and increase revenue. With mobile banking, banks can empower its customers (directly or through agents) to securely access their bank accounts using mobile phones to get information of their accounts like available balance, transactions.
+Paragraph:03
+Title: Competitive Advantages
+Image: images/Platform Image/CompetitiveAdvantage.jpg 
+Description: Celloscope Banking Platform certainly will give banks a competitive advantage over other banks offering same kind of services to their clientele. It will allow banks to come to market with new and enhanced banking services in a shorter time frame with a significant cost reduction. In terms of both time to market and delivery cost Celloscope Banking Platform has all the potential.

@@ -1,0 +1,132 @@
+Paragraph:01
+Title: Solutions -> Functional Features
+Description: Celloscope Banking Platform is a feature rich software application. The features are designed in such a way they can be easily modified according to specific customer need. Standard features include multiple channel support, customer information management, and financial product management among others.
+Versatile Delivery Channel Support
+
+In a bid to drive greater differentiation from the competition, optimize services and minimize costs, banks are exploring alternative banking channels that are right for their customers. It is important that the bank address each group of customers with the channel they require and then actively bring these alternatives to those customers. This requires a system that supports the bank handling its various channels reliably, securely and as simply as possible.
+...
+Comprehensive Customer Information Management
+
+    KYC per Bangladesh Bank regulation
+    ...
+    Customer photograph for customer verification for every transaction
+    Signature scan and verification option for transactions
+    Identity management
+        Authentication credential
+        Biometric: 1 to 10 fingerprints enrolment per customer
+        Supports multiple authentication medium for customers (a customer can be enrolled in biometric, chip and pin, magnetic strip and signature, QR code, image, pin, one time pin by SMS, image password… any combination)
+        Two factor authentication
+    Rule based transaction profiling
+
+Financial Product Management
+...
+Business Process Enforcement Support
+
+    Maker Checker support
+    Role based authority
+    Approval and process segregation
+
+Business Rule Processor
+
+    Transaction rules
+    Limits
+    Interest calculation
+    Fees and charges
+    Penalties
+    Alerts
+
+ 
+
+General Ledger Accounting
+
+    GAAP compliant accounting system
+    Double entry based general ledger
+    Real-time transaction update in general ledger
+
+ 
+
+Security and Access Management
+
+    Role based access control
+    Two factor authentication
+    Supports authentication combination of any of the following
+        Biometric authentication
+        PIN
+        Disposable PIN
+    Verification by
+        Photograph
+        Signature
+        QR card
+    Automatic logout due to inactivity
+    Audit Trail
+
+ 
+
+Administration Portal and Dashboard
+
+    Configuration workbench
+    Real-time graphs and charts
+    Alerts
+
+ 
+
+Agent Management
+
+    Agent Management
+    Agent, sub-agent, agent franchise, agent network management
+
+ 
+
+System Integration
+
+    Integration with CBS
+    Integration with CMS and switch
+
+ 
+
+Business Monitoring
+
+    Quality of service
+    Real time cash monitoring
+
+ 
+
+Systems Monitoring and Management
+
+    Transaction lifecycle Management
+        Trace transaction end to end
+        Trace by time, geo-location, agent, device
+    System resource monitoring
+    Log file management
+
+ 
+
+Geo location
+
+    Geo-stamping of transaction
+    Transaction profiling and restriction based on Geo-location
+
+ 
+
+Reporting
+
+    Client reporting (statements)
+    Internal reporting
+    MIS (BI) reporting (Analytic Processing)
+    Regulatory reporting
+    Exception reporting
+
+ 
+
+Card Management
+
+    Issue new cards
+    Issue lost or stolen cards
+
+ 
+
+Multi Language Support
+
+    Bangla Support
+
+ 

@@ -1,0 +1,40 @@
+Paragraph: 01
+Title: 2009-2010
+Image: images/2009_10.jpg
+Description: The story behind CELLOSCOPE started long before the company was formally launched. The six individuals behind CELLOSCOPE, located dispersedlyaround the globe had exchanged ideas and thoughts for many months waiting all along for the time when they all would meet to discuss things in person.
+Paragraph: 02
+Title: 2011-2012
+Image: images/2011_12.jpg
+Description: Around two years back, they got that much awaited opportunity to meet in Dhaka to discuss their plans. As usual, they started off with common topics like growing old,getting bored, missing Dhaka, and of course they all laughed out loud over memories of funny old stories. As conversation floated about on that afternoon, before long, it led to exploring possibilities of putting together their collective knowledge to address common needs in Bangladesh and beyond.
+Paragraph: 03
+Title: 2013
+Image: images/2013.jpg 
+Description: With degrees in engineering and having spent most of their professional years in and around technologies, they can easily be labeled as an assembly of typical nerdsand geeks. Surprisingly, this crowd does not fall into that stereotyped category; they still listen to their music, search the night sky for falling stars, and read their fictions.This attribute, above all, gives them the edge over their competitors. They can think outside the realm of technology and relate easily to the need of their clients. This quality coupled with their command over technology gives CELLOSCOPE its unique flavor. 
+Paragraph: 04
+Title: 2014-15
+Image: images/2014_15.jpg 
+Description: On an individual level, the ideas and expertise they possess were varied, and seemed apparently incoherent. In a nutshell they are,Hafiz's company in New York builds complex backend software for Wall Street firms.Rusho's company in Dhaka creates feature-rich Android based applications for clients in US.Asif's people build sophisticated banking and telecom software for large corporations, here and abroad.Rasul is ready to roll up his sleeves once again to deploy his army of agents as he had done earlier in his career.Shabbir, the financial wizard among the crowd, is excited about the prospect of growth for the new company.Rubayat is full of claims that agent banking can trigger a paradigm shift in the lives of average people in Bangladesh.Everyone in that meeting put forth some unique proposition, propositions that could complement each other towards achieving a common goal. At the end, they all wandered, why not put it all under one roof? And, that is exactly what they did. CELLOSCOPE, the company, came into being on that summer afternoon; a company where people with a zealto utilize technology to solve real life issues joined hands.
+Paragraph: 05
+Title: 2016-17
+Image: images/2014_15.jpg 
+Description: On an individual level, the ideas and expertise they possess were varied, and seemed apparently incoherent. In a nutshell they are:
+Hafiz's company in New York builds complex backend software for Wall Street firms.
+Rusho's company in Dhaka creates feature-rich Android based applications for clients in US.
+Asif's people build sophisticated banking and telecom software for large corporations, here and abroad.
+Rasul is ready to roll up his sleeves once again to deploy his army of agents as he had done earlier in his career.
+Shabbir, the financial wizard among the crowd, is excited about the prospect of growth for the new company.
+Rubayat is full of claims that agent banking can trigger a paradigm shift in the lives of average people in Bangladesh.
+Everyone in that meeting put forth some unique proposition, propositions that could complement each other towards achieving a common goal.
+At the end, they all wandered, why not put it all under one roof? And, that is exactly what they did. CELLOSCOPE, the company, came into being on that summer afternoon; a company where people with a zealto utilize technology to solve real life issues joined hands.
+Paragraph: 05
+Title: 2016-17
+Image: images/2014_15.jpg 
+Description: On an individual level, the ideas and expertise they possess were varied, and seemed apparently incoherent. In a nutshell they are:
+Hafiz's company in New York builds complex backend software for Wall Street firms.
+Rusho's company in Dhaka creates feature-rich Android based applications for clients in US.
+Asif's people build sophisticated banking and telecom software for large corporations, here and abroad.
+Rasul is ready to roll up his sleeves once again to deploy his army of agents as he had done earlier in his career.
+Shabbir, the financial wizard among the crowd, is excited about the prospect of growth for the new company.
+Rubayat is full of claims that agent banking can trigger a paradigm shift in the lives of average people in Bangladesh.
+Everyone in that meeting put forth some unique proposition, propositions that could complement each other towards achieving a common goal.
+At the end, they all wandered, why not put it all under one roof? And, that is exactly what they did. CELLOSCOPE, the company, came into being on that summer afternoon; a company where people with a zealto utilize technology to solve real life issues joined hands.

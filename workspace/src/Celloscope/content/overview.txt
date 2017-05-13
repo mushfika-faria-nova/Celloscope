@@ -1,0 +1,16 @@
+Paragraph:01
+Title: OVERVIEW
+Description: Celloscope Platform is designed to cater to different financial institutions with common as well as unique need. The platform is flexible enough to be used by for-profit and not-for-profit organizations alike. The challenges faced by developing nations when it comes to providing financial services has always been considered during design and implementationphases.
+
+Some tangible goals that the platform aims to achieve include:
+
+Provide technology and operation support to financial institutions so that financial services are readily available to common people, specially grass root people in rural and urban areas
+
+The technology and operation must be culturally and economically appropriate for Bangladesh context
+The technology and operation must be retained and owned by Bangladesh at source level so that cost of operation and support is least in terms of money and time
+The technology and operation must be fully aligned with standard Bank-led model of financial inclusion
+Provide technology and operation support to financial institutions so that service creation and delivery platform is unified from a Bank’s point of view
+
+The platform must be open in technological perspective and licensing perspective
+The platform will be based on the current state of the art technologies and architecture of what is considered advanced in top financial markets specifically Wall Street
+The platform will be able to give its clients a single unified system for offering all of its services, products and channels to its end customers

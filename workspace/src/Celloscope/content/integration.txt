@@ -1,0 +1,3 @@
+Paragraph:01
+Title: Solutions ->Third Party Integration Options
+Description: Celloscope Banking Platform can be integrated with existing systems used by Banks. For instance, the existing Core Banking System (CBS) which is responsible for central transaction and data management can be integrated with Celloscope platform through Application Programming Interface (API) provided by CBS vendor. Similarly, Card Management System (CMS) used by Banks can also be integrated with Celloscope platform to enable debit card as a payment channel through Celloscope’s mobile platform.

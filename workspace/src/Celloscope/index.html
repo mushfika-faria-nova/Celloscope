@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" >
+	<title>Celloscope Web Page</title>
+	<link href="css/stylesheet.css" rel="stylesheet" type="text/css"/>
+	<script src="js/WebNavigationScripts.js" type="text/javascript"></script>
+	<script src="js/TextFileReaderScripts.js" type="text/javascript"></script>
+	<script src="js/readAboutPart.js" type="text/javascript"></script>
+	<script src="js/readPlatformPart.js" type="text/javascript"></script>
+	<script src="js/readInfo.js" type="text/javascript"></script>
+</head>
+<body onresize="show_left_btn()">
+	<div id="container">
+		<div id="header">		
+			<ul id="nav">
+				<div ><a id="logo" href="#">celloscope</a></div>
+				<div id="leftbar-btn" onclick="toggleClass()">					
+					<span></span>
+	      			<span></span>
+	      			<span></span>										
+				</div> 
+				<div class="left-bar" > 
+					<ul>
+						<li><a id="bar1" href="#text-part">Solution</a></li>
+						<li><a id="bar2" href="#platform-part">Platform</a></li>
+						<li><a id="bar3" href="#about-part">About</a></li>
+						<li><a id="bar4" href="#gallery">Gallery</a></li>
+						<li><a id="bar6" href="#contact-field">Contact</a></li>	
+						<li><a id="bar7" href="#"><input type="search" id="mySearchBar" onkeypress="handleKeyPress(event,this.id)"></a></li>	
+					</ul>
+				</div>
+	    		<li><a id="home" href="#text-part"></a></li>	
+      			<li><a id="aboutt" href="#platform-part"></a></li>    	
+      			<li><a id="about" href="#about-part"></a></li>     				
+      			<li><a id="contact" href="#contact-field"></a></li>
+      			<div id="search">       			
+	      			<input type="search" id="mySearch" onkeypress="handleKeyPress(event,this.id)">
+      			</div>      							     			    			
+      		</ul>		
+		</div>
+		<div id="banner">
+		 	<img id="banner-image" src="images/BannerImage.jpg">	
+		 		<div id="relative">
+			 		<div id="banner-text">
+				 		Welcome to celloscope! <br/><br/>
+				 		BANKING PLATFORM
+			 		</div>		 			
+		 		</div>	 						
+		</div>
+		<div id="main-body">
+			<div id="body-content" >
+				<div id="text-part">
+					<div id="solution-text" ></div>									
+				</div>
+				<div id="bottom-part"></div>
+				<div id="charts">
+					<div class="charts-div">
+						<a id="img-color" href="#openModal_solution" onclick="clearBox('modal-textp');readTextModal('content/functional feature.txt','modal-textp')"><img src="images/Solution Image/Solution_Functional feature.jpg"  onmouseover="this.src='images/Solution Image/Solution_Functional feature_hover.jpg '" onmouseout="this.src='images/Solution Image/Solution_Functional feature.jpg'"></a>
+						<h3 class="charts-a" >Funtional Features</h3 >							
+					</div>
+					<div  class="charts-div">
+						<a id="img-color" href="#openModal_solution" onclick="clearBox('modal-textp');readTextModal('content/integration.txt','modal-textp')"><img src="images/Solution Image/Solution_3rd party integration.jpg"  onmouseover="this.src='images/Solution Image/Solution_3rd party integration_hover.jpg '" onmouseout="this.src='images/Solution Image/Solution_3rd party integration.jpg'"></a>
+						<h3 class="charts-a" >3rd Party Integretion Option</h3 >
+					</div>
+					<div class="charts-div">
+						<a id="img-color" href="#openModal_solution" onclick="clearBox('modal-textp');readTextModal('content/technical features.txt','modal-textp')"><img src="images/Solution Image/Solution_Technical Features.jpg"  onmouseover="this.src='images/Solution Image/Solution_Technical Features_hover.jpg '" onmouseout="this.src='images/Solution Image/Solution_Technical Features.jpg'"></a>
+						<h3 class="charts-a" >Technical Features</h3 >
+					</div>
+					<div class="charts-div">
+						<a id="img-color" href="#openModal_solution" onclick="clearBox('modal-textp');readTextModal('content/real life solution.txt','modal-textp')"><img src="images/Solution Image/Solution_Real life solution.jpg"  onmouseover="this.src='images/Solution Image/Solution_Real life solution_hover.jpg '" onmouseout="this.src='images/Solution Image/Solution_Real life solution.jpg'"></a>
+						<h3 class="charts-a" >A Few Real Life Solutions</h3 >
+					</div>						
+				</div>															
+			</div>			
+		</div>
+		<div id="openModal_solution" class="modalDialog">
+		    <div>	
+		    	<a href="#bottom-part" title="Close" class="close">X</a>
+		        <div id="modal-textp"></div>
+		    </div>
+		</div>
+		<div id="openModal_platform" class="modalDialog">
+		    <div>	
+		    	<a href="#platform-col" title="Close" class="close">X</a>
+		        <div id="modal-text"></div>
+		    </div>
+		</div>
+
+		<div id="platform-part">
+			<div id="platform-text">				
+			</div>
+			<div id="platform-col">
+				<div>
+					<div class="image-co">
+						<div id="image1">
+							<div class="overlay">
+							<div class="text"><a href="#openModal_platform" onclick=" clearBox('modal-text'); readTextModal('content/overview.txt','modal-text')">More info </a></div>
+						</div>
+						</div>
+						
+					</div>	
+					<div id="platform-col-text1"></div>				
+				</div>
+					<div>
+						<div class="image-co">
+							<div id="image2"></div>
+							<div class="overlay">
+								<div class="text"><a href="#openModal_platform" onclick="clearBox('modal-text');readTextModal('content/benefits for banks.txt','modal-text')">More info </a></div>
+							</div>
+						</div>		
+					<div id="platform-col-text2"></div>
+				</div>
+				<div>
+					<div class="image-co">
+						<div id="image3"></div>
+						<div class="overlay">
+						    <div class="text"><a href="#openModal_platform" onclick="clearBox('modal-text');readTextModal('content/competitive advantages.txt','modal-text')">More info </a></div>
+						 </div>
+					</div>										
+					<div id="platform-col-text3"></div>
+				</div>				
+			</div>
+		</div>		
+		<div id="about-part">
+			<div id="about-text"></div>
+			<div id="about-fig">			
+			</div>			
+		</div>
+		<div id="gallery">
+			<div><h1>Gallery</h1><br><br></div>
+			<div id="images_gallery" >
+				
+				<div id="images">
+					<div id="up"><input type="button" value=">" onclick="change_next_img()"></div>
+				<div id="down"><input type="button" value="<" onclick="change_previous_img()" ></div>
+				</div>
+			</div>
+		</div>
+		<div id="contact-field">
+				<div id="form">
+					<div id="contact-text"></div>
+					<div>
+						<form  id="contactform"> 
+							<script type="text/javascript"> id = 210831; </script>
+							<script type="text/javascript" src="js/form.js"></script>
+						</form>		
+	
+					</div>
+				</div>		
+			<img src="images/ContactFormBackground.jpg" width="1349px">							
+		</div>
+		<div id="footer">
+			<p>Connect via</p>	
+			<a href="https://twitter.com/Twitter?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><img src="images/Footer Icons/TwitterIcon.jpg" width='40' height='40' onmouseover="this.src='images/Footer Icons/TwitterIcon_hover.jpg'" onmouseout="this.src='images/Footer Icons/TwitterIcon.jpg'"></a>
+			<a href="https://www.facebook.com/"><img src="images/footer icons/FacebookIcon.jpg" width='40' height='40' onmouseover="this.src='images/Footer Icons/FacebookIcon_hover.jpg'"onmouseout="this.src='images/Footer Icons/FacebookIcon.jpg'"></a>
+			<a href="https://www.linkedin.com/"><img src="images/footer icons/LinkedInIcon.jpg" width='40' height='40' onmouseover="this.src='images/Footer Icons/LinkedInIcon_hover.jpg'"onmouseout="this.src='images/Footer Icons/LinkedInIcon.jpg'"></a>
+		</div>
+</body>
+</html>
+

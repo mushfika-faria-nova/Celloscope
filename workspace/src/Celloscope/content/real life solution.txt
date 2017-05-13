@@ -1,0 +1,26 @@
+Paragraph:01
+Title: Solutions -> A few real life solutions
+Description: The type of real life need that can be addressed through Celloscope platform is endless. Bill Collection, Fee payment, salary disbursement, Social Safety Network payment etc. are just a few to name. The platform can be customized for any payment conceivable.
+
+Bill Collection
+
+Bill collection process in Celloscope platform is initiated through its mobile user interface which includes a “Bill Pay” top menu which will allow customers to make payments through agents from any location. Through “Create Template – Utility”, Banks can include any organization for which it may opt to collect bills.
+
+Fee Collection
+
+Celloscope Banking Platform can be used for all kinds of Fee Collection including Passport fee collection, BRTA fee collection etc. For example for passport fee collection the workflow could be as follows.
+
+Agent Sign-in
+
+Anyone (bank account holders and non-account holders) could come to agent location for Services like Passport fee deposit, reprint of barcode (if it is lost) etc.
+...
+
+Fee Deposit Options
+
+Passport fee can have regular or express option having different fee structure. The agent can fill in a simple form with minimum input on behalf of the applicant.
+...
+
+Confirmation
+
+Once everything is done the agent makes certain that everything is correct and gets it verified by the applicant for conformation.
+...

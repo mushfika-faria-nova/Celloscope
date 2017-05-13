@@ -1,0 +1,3 @@
+Paragraph:01
+Title: PLATFORM
+Description: Celloscope offers a highly secure and robust Agent and Mobile Banking platform to the banking industry, which can be integrated with existing banking infrastructure, mobile and data networks, and payment gateways. It enables a banks customers, staffs and agents to access banking services securely and effortlessly using their mobile handset from anywhere, anytime, even while on the go.
