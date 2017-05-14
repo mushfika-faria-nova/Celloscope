@@ -1,3 +1,4 @@
+
 body
 {
 	line-height: 100%;
@@ -143,8 +144,7 @@ input[type=search]:focus
 	color: white;
 	transition: all 0.40s;
 }
-#dropdown:hover #dropdown-menu 
-{
+#dropdown:hover #dropdown-menu {
 	display: block;
 }
 #logo 
@@ -184,11 +184,13 @@ input[type=search]:focus
 	max-height: 800px;
 	min-height: 400px;
 	display: block; 
-}
+}﻿
+
 #relative
 {
 	position: relative;
 }
+
 #banner-text
 {
 	top: 250px;
@@ -205,6 +207,7 @@ input[type=search]:focus
 	padding-top: 20px;
 	display: block;
 	width: 100%;
+
 }
 
 .left-bar
@@ -219,9 +222,9 @@ input[type=search]:focus
 	left: -220px;
 	top:65px;
 	transition: left 0.3s linear;
+
 }
-@media screen and (max-height: 500px) 
-{
+@media screen and (max-height: 500px) {
   .left-bar a{line-height:  48px;}
   .left-bar a {font-size: 18px;}
 }
