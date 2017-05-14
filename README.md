@@ -16,7 +16,7 @@ and run the local server to host the website.
 
 ### Running the tests
 
-Navigate to http://localhost/index.html or 127.0.0.1 in your web browser. You should see the website.
+Navigate to http://localhost/Celloscope/workspace/src/Celloscopeindex.html or the path where the index.html file is, in your web browser. You should see the website.
 
 Built With
 1) HTML5
