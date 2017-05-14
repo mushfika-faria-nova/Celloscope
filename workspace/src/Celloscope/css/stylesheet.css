@@ -224,7 +224,6 @@ input[type=search]:focus
 {
   .left-bar a{line-height:  48px;}
   .left-bar a {font-size: 18px;}
-  #banner-text {top: 150px; font-size: 30px; }
 }
 .left-bar.visible
 {
