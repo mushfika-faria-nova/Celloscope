@@ -224,9 +224,11 @@ input[type=search]:focus
 	transition: left 0.3s linear;
 
 }
-@media screen and (max-height: 500px) {
+@media screen and (max-height: 500px) 
+{
   .left-bar a{line-height:  48px;}
   .left-bar a {font-size: 18px;}
+   #banner-text {top: 150px; font-size: 30px; }
 }
 .left-bar.visible
 {
