@@ -1,1 +1,1 @@
-images/Slideshow/Slide.jpg
+images/Slideshow/slide.jpg
