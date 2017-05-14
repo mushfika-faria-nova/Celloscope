@@ -208,11 +208,12 @@ input[type=search]:focus
 	width: 100%;
 
 }
+
 .left-bar
 {
 	text-align: center;
-	width:200px;
-	height: 100%;
+	width:135px;
+	height: auto;
 	padding: 0;
 	position: absolute;
 	background: transparent;
@@ -221,6 +222,10 @@ input[type=search]:focus
 	top:65px;
 	transition: left 0.3s linear;
 
+}
+@media screen and (max-height: 500px) {
+  .left-bar a{line-height:  48px;}
+  .left-bar a {font-size: 18px;}
 }
 .left-bar.visible
 {
