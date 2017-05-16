@@ -37,83 +37,129 @@ All the contents of the web page are read from textfiles.
 
 ## How to name images for slideshow
 
-Add as many images as you like in the images>Slideshow folder  but the names should follow the naming convention like ("slide1,slide2,slide3,......,sliden).
+Add as many images as you like in the images>Slideshow folder  but the names should follow the naming convention like 
+("slide1,slide2,slide3,......,sliden).
 
 ## How to add contents of text files
 
 The textfiles should be in similar format
 
-## For Solution Part(solution.txt):
+## For Solution Part(solution.txt)
 
 Paragraph:01
+
 Title: 
+
 Description: 
+
 List:
 
-## For Platform Part:
+## For Platform Part
 
-For the textpart(platform.txt):
+For the textpart(platform.txt)
 
 Paragraph:01
+
 Title: PLATFORM
+
 Description:
 
-And for the platform columns(3 columns fixed)(platform_part.txt):
+And for the platform columns(3 columns fixed)(platform_part.txt)
 
 Paragraph:01
+
 Title: 
+
 Image: 
+
 Description: 
+
 Paragraph:02
+
 Title: 
+
 Image: 
+
 Description: 
+
 Paragraph:03
-Title: 
+
+Title:
+
 Image:  
+
 Description:
 
 ## For About Part
 
-For the textpart(about.txt):
+For the textpart(about.txt)
 
 Paragraph:01
+
 Title: ABOUT
+
 Description:
 
-And for the about rows(add as many rows as user want but maintain the format)(about_part.txt):
-The format should be in such a way :
+
+And for the about rows(add as many rows as user want but maintain the format)(about_part.txt)
+
+The format should be in such a way 
 
 Paragraph:01
+
 Title: 
+
 Image: 
+
 Description: 
+
 Paragraph:02
+
 Title: 
+
 Image: 
+
 Description: 
+
 Paragraph:03
+
 Title: 
-Image:  
+
+Image: 
+
 Description:
 ......
+
 .....
+
 .....
+
 Paragraph:
+
 Title: 
+
 Image:  
+
 Description:
 
+
 ## Constants
+
 1)Filenames should be same.
+
 2)Textfiles format should be same such as : first paragrph then title,image. description etc.
+
 3)Content of slideshow.txt should be same.
 
 ## Users can change
 
 1)Names of Title, Image and Description
+
 2)Pargarph numbers should be sequential.
 
-## Issues:
+## Issues
+
 1)Users cant delete any files. If deleted,that content won't be loaded on website.
+
 2)Issue with mail system as 3rd party is used.
+
